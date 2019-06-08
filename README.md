@@ -1,4 +1,4 @@
 # IR-Tank-Battle
-Un petit jeu de tank Infra Rouge pilotable avec smartphone
-## Fichiers de modélisation 3D
- Disponibles ici: https://www.thingiverse.com/thing:3679008
+A little Infra-red game you can command with a smartphone.
+## 3D files
+Available here: https://www.thingiverse.com/thing:3679008
