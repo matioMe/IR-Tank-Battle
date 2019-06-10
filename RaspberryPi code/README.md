@@ -6,7 +6,7 @@ To compile it, you have two possibilities:
 
 ## First possibility
 
-You can copy the GUI_Tank folder on the Pi and use qmake on the RaspberryPi with these command lines:
+You can copy the GUI_Tank folder on the Pi and use qmake on a RaspberryPi 3 with these command lines:
 
     qmake
     make
