@@ -2,7 +2,7 @@
 
 This is a Qt Application.
 
-To compile, you have two possibilities:
+To compile it, you have two possibilities:
 
 ## First possibility
 
