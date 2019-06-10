@@ -11,7 +11,9 @@ You can copy the GUI_Tank folder on the Pi and use qmake on the RaspberryPi with
     qmake
     make
 
-It compile the project. Then you can launch the program using:
+It will compile the project and create a executable file.
+
+Then you can launch the program using:
     
     ./GUI_Tank
 
