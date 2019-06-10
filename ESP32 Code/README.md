@@ -1,4 +1,4 @@
-# Information sur les fichiers
+# Information on files
 
 tutorial to install ESP32 on the ide arduino :
 
